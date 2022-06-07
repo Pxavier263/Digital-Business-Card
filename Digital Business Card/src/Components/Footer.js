@@ -5,7 +5,7 @@ function Footer () {
                  <a href="x"><img src="./Twitter.png" alt="twitter"/></a>
                  <a href="x"><img src="./Facebook.png" alt="fb"/></a>
                  <a href="x"><img src="./Instagram.png" alt="instagram"/></a>
-                 <a href="https://github.com/Pxavier263"><img src="./Github.png" alt="gitHub"/></a>
+                 <a href="https://github.com/Pxavier263"><img src="./GitHub.png" alt="gitHub"/></a>
              </div>
          </section>
     )
